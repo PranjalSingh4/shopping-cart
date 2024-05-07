@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
-<%@ page import="com.shashi.service.impl.*, com.shashi.service.*"%>
+<%@ page import="com.pranjal.service.impl.*,com.pranjal.service.*"%>
 
 <!DOCTYPE html>
 <html>
